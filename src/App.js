@@ -17,7 +17,7 @@ const images = [
 function App() {
   return (
     <div>
-      <h1>Image Slider Example</h1>
+      <h1>Slider:</h1>
       <ImageSlider images={images} />
     </div>
   );
